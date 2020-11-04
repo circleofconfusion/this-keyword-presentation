@@ -1,0 +1,15 @@
+{
+  "name": "this-keyword",
+  "version": "1.0.0",
+  "description": "Experiments with the this keyword",
+  "main": "Boat-Barebones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shane Knudsen",
+  "license": "ISC",
+  "dependencies": {
+    "mixwith": "^0.1.1"
+  },
+  "type": "module"
+}
